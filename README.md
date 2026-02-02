@@ -7,8 +7,8 @@ I am a detail-oriented professional currently **transitioning from a career in p
 I am leveraging my technical troubleshooting skills and precision-focused mindset to protect digital assets. Currently building hands-on experience in log analysis, web application security, and incident response through Hack The Box.
 
 ## 📈 Learning Progress
-- **HTB Junior Analyst Path:** [███████░░░] 52%
-- **Current Module:** Introduction to Web Applications
+- **HTB Junior Analyst Path:** [███████░░░] 53%
+- **Current Module:** Pentest in a Nutshell
 - **Target Completion:** May 2026
 
 ## 📁 Portfolio Map
