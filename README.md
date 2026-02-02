@@ -20,7 +20,7 @@ I believe in understanding the "how" behind the tools.
 ---
 
 ### 📂 Featured Projects
-* **[Sherlock Write-ups](HTB-Sherlocks):** Detailed analysis of recent cyber threats and forensic investigations.
+* **[Sherlock Write-ups](cybersec/HTB-Sherlocks):** Detailed analysis of recent cyber threats and forensic investigations.
 * **[C# Security Labs](./CSharp):** Security-oriented tools and software development exercises.
 * **[Learning Notes and Methodology](HTB-Academy-Writeups):** Documentation on structured Penetration Testing and SOC workflows.
 
