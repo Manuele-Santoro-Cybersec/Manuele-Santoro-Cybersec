@@ -20,11 +20,11 @@ I believe in understanding the "how" behind the tools.
 ---
 
 ### 📂 Featured Projects
-* **[Sherlock Write-ups](./Sherlocks):** Detailed analysis of recent cyber threats and forensic investigations.
+* **[Sherlock Write-ups](HTB-Sherlocks):** Detailed analysis of recent cyber threats and forensic investigations.
 * **[C# Security Labs](./CSharp):** Security-oriented tools and software development exercises.
-* **[Methodology Notes](./Notes):** Documentation on structured Penetration Testing and SOC workflows.
+* **[Learning Notes and Methodology](HTB-Academy-Writeups):** Documentation on structured Penetration Testing and SOC workflows.
 
 ---
 
-📫 **Connect with me:** [Insert LinkedIn Link]
+📫 **Connect with me:** [https://www.linkedin.com/in/manuelesantoro/]
 *"Methodology over tools. Analysis over guesswork."*
