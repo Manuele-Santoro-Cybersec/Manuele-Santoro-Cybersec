@@ -32,4 +32,38 @@ My background in managing high-volume digital assets under **strict 24/48h SLAs*
 | :--- | :--- | :--- |
 | **Incident Response** | [**HTB-Sherlocks**](./HTB-Sherlocks) | Deep-dives into real-world logs and traffic analysis (e.g., *Bofors*, *Brute*). |
 | **Academy Notes** | [**HTB-Academy-Writeups**](./HTB-Academy-Writeups) | Methodological breakdowns of Footprinting, Scanning, and Network Defense. |
+| **Home Lab** | [**Projects**](./Projects) | SIEM configurations (Sentinel/Splunk) and custom Python security scripts. |
+
+---
+
+## 🛠️ Transferable Skills: From Digital Operations to SOC
+
+| Skill | Operational Impact in a SOC |
+| :--- | :--- |
+| **SLA Discipline** | Proven ability to deliver results under tight 24/48h windows (4 years at Nichecom). |
+| **Pattern Recognition** | Identifying anomalies in large digital datasets with extreme precision. |
+| **Incident Management** | Methodical decision-making and troubleshooting in high-stakes environments. |
+| **Communication** | Delivering clear, technical reporting to both stakeholders and engineering teams. |
+
+---
+
+## ⚡ Technical Toolkit
+* **SIEM:** Microsoft Sentinel, Splunk (Lab environment).
+* **Forensics:** Wireshark, TCPDump, Log Analysis (Windows/Linux).
+* **Active Defense:** Nmap, Metasploit, Python, SQL.
+* **Compliance:** SLA management, Data Integrity, NIST/Cyber Essentials awareness.
+
+---
+
+### 📫 Connect with me
+* **LinkedIn:** [linkedin.com/in/manuelesantoro/](https://www.linkedin.com/in/manuelesantoro/)
+* **Email:** [Inserisci la tua email qui]
+
+*“Precision in operations, resilience in defense.”*
+## 📁 Investigation Portfolio (Hands-on Labs)
+
+| Category | Repository | Description |
+| :--- | :--- | :--- |
+| **Incident Response** | [**HTB-Sherlocks**](./HTB-Sherlocks) | Deep-dives into real-world logs and traffic analysis (e.g., *Bofors*, *Brute*). |
+| **Academy Notes** | [**HTB-Academy-Writeups**](./HTB-Academy-Writeups) | Methodological breakdowns of Footprinting, Scanning, and Network Defense. |
 | **Home Lab** | [**Projects**](./Projects) | SIEM configurations (Sentinel/Splunk) and custom
