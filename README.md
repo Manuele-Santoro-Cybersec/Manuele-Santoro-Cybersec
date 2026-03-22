@@ -57,7 +57,7 @@ My background in managing high-volume digital assets under **strict 24/48h SLAs*
 
 ### 📫 Connect with me
 * **LinkedIn:** [linkedin.com/in/manuelesantoro/](https://www.linkedin.com/in/manuelesantoro/)
-* **Email:** [Inserisci la tua email qui]
+* **Email:** [manuele.santoro@outlook.com]
 
 *“Precision in operations, resilience in defense.”*
 ## 📁 Investigation Portfolio (Hands-on Labs)
