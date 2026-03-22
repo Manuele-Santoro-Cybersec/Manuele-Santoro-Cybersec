@@ -21,7 +21,7 @@ My background in managing high-volume digital assets under **strict 24/48h SLAs*
 * **Target Completion:** April 2026
 
 ### **Google Cybersecurity Professional Certificate**
-* **Status:** Module 5/8 (Assets, Threats, and Vulnerabilities).
+* **Status:** COMPLETED 
 * **Core Competencies:** Linux CLI, SQL for Security, Python Automation, NIST Framework.
 
 ---
