@@ -1,69 +1,66 @@
-# Manuele Santoro | Junior SOC Analyst & Incident Responder 🛡️
+# 🛡️ Manuele Santoro – SOC Analyst Portfolio
 
-> **Current Focus:** Finalising **HTB CJCA (80%)** & Mastering **Network Traffic Analysis (Wireshark)**. 
-> 📍 Based in Reading, Berkshire, UK.
+Aspiring SOC Analyst with hands-on experience in:
+- SIEM monitoring (Microsoft Sentinel)
+- Log analysis & incident investigation
+- Network forensics (Wireshark, PCAP analysis)
 
----
-
-## 👤 About Me
-I am a dedicated professional with **10 years of experience in the UK market**, transitioning from a senior role in **Digital Operations and Technical Services** into Cybersecurity. 
-
-My background in managing high-volume digital assets under **strict 24/48h SLAs** has instilled in me a "production-first" mindset. I am now applying this discipline to **Threat Detection, SIEM log analysis, and Network Forensics**. I thrive in high-pressure environments where precision and methodical troubleshooting are mission-critical.
+📍 Based in Reading, UK  
+🎯 Target Role: SOC Analyst (L1)
 
 ---
 
-## 📈 Certification Roadmap
+## 🔍 Portfolio Projects
 
-### **Hack The Box (HTB) - Certified Junior Cybersecurity Analyst (CJCA)**
-* **Progress:** [████████░░] **80%**
-* **Current Module:** *Networking Introduction* (Finalising Wireshark & Packet Analysis).
-* **Next Milestone:** Moving into **Security Analysis & Incident Response** modules.
-* **Target Completion:** April 2026
-
-### **Google Cybersecurity Professional Certificate**
-* **Status:** COMPLETED 
-* **Core Competencies:** Linux CLI, SQL for Security, Python Automation, NIST Framework.
+### 📡 Network Forensics – C2 Detection (HTB: Bofors)
+- Analysed PCAP traffic using Wireshark
+- Identified command-and-control (C2) communication
+- Extracted Indicators of Compromise (IOCs)
+- Mapped attacker behaviour using MITRE ATT&CK
 
 ---
 
-## 📁 Investigation Portfolio (Hands-on Labs)
-
-| Category | Repository | Description |
-| :--- | :--- | :--- |
-| **Incident Response** | [**HTB-Sherlocks**](./HTB-Sherlocks) | Deep-dives into real-world logs and traffic analysis (e.g., *Bofors*, *Brute*). |
-| **Academy Notes** | [**HTB-Academy-Writeups**](./HTB-Academy-Writeups) | Methodological breakdowns of Footprinting, Scanning, and Network Defense. |
-| **Home Lab** | [**Projects**](./Projects) | SIEM configurations (Sentinel/Splunk) and custom Python security scripts. |
+### 🔐 Log Analysis – Brute Force Detection (HTB: Brute)
+- Investigated authentication logs
+- Detected brute-force attack patterns
+- Identified successful compromise attempts
+- Produced structured incident report
 
 ---
 
-## 🛠️ Transferable Skills: From Digital Operations to SOC
-
-| Skill | Operational Impact in a SOC |
-| :--- | :--- |
-| **SLA Discipline** | Proven ability to deliver results under tight 24/48h windows (4 years at Nichecom). |
-| **Pattern Recognition** | Identifying anomalies in large digital datasets with extreme precision. |
-| **Incident Management** | Methodical decision-making and troubleshooting in high-stakes environments. |
-| **Communication** | Delivering clear, technical reporting to both stakeholders and engineering teams. |
+### ⚙️ SIEM Lab – Microsoft Sentinel
+- Monitored alerts and security events
+- Performed basic triage and investigation
+- Analysed suspicious activity from log data
+- Documented incidents and response actions
 
 ---
 
-## ⚡ Technical Toolkit
-* **SIEM:** Microsoft Sentinel, Splunk (Lab environment).
-* **Forensics:** Wireshark, TCPDump, Log Analysis (Windows/Linux).
-* **Active Defense:** Nmap, Metasploit, Python, SQL.
-* **Compliance:** SLA management, Data Integrity, NIST/Cyber Essentials awareness.
+## 🧰 Tools & Technologies
+
+- SIEM: Microsoft Sentinel  
+- Network Analysis: Wireshark  
+- Scripting: Python (basic)  
+- Offensive Tools: Nmap, Metasploit  
+- OS: Linux  
 
 ---
 
-### 📫 Connect with me
-* **LinkedIn:** [linkedin.com/in/manuelesantoro/](https://www.linkedin.com/in/manuelesantoro/)
-* **Email:** [manuele.santoro@outlook.com]
+## 📚 Certifications
 
-*“Precision in operations, resilience in defense.”*
-## 📁 Investigation Portfolio (Hands-on Labs)
+- Google Cybersecurity Professional Certificate  
+- HTB Certified Junior Cybersecurity Analyst (In Progress)
 
-| Category | Repository | Description |
-| :--- | :--- | :--- |
-| **Incident Response** | [**HTB-Sherlocks**](./HTB-Sherlocks) | Deep-dives into real-world logs and traffic analysis (e.g., *Bofors*, *Brute*). |
-| **Academy Notes** | [**HTB-Academy-Writeups**](./HTB-Academy-Writeups) | Methodological breakdowns of Footprinting, Scanning, and Network Defense. |
-| **Home Lab** | [**Projects**](./Projects) | SIEM configurations (Sentinel/Splunk) and custom
+---
+
+## 🚀 Currently Working On
+
+- Advanced network traffic analysis  
+- Building a personal SOC lab environment  
+- Improving detection & incident response skills  
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/manuelesantoro
